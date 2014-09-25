@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42941F90-4518-4DC4-A987-D1FD7DFCA0C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageRoller</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29C08C00-852A-450C-AF86-64FC03239777</key>
+		<string>https://del.sapient.resultspace.com/scm/mobile_coe/trunk/Development/Code/ReusableComponents_2013/ComponentDemos</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Image Roller/ImageRoller.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29C08C00-852A-450C-AF86-64FC03239777</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>29C08C00-852A-450C-AF86-64FC03239777</key>
+		<string>https://del.sapient.resultspace.com/scm/mobile_coe</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://del.sapient.resultspace.com/scm/mobile_coe/trunk/Development/Code/ReusableComponents_2013/ComponentDemos/Image%20Roller/ImageRoller.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29C08C00-852A-450C-AF86-64FC03239777</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29C08C00-852A-450C-AF86-64FC03239777</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ComponentDemos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
